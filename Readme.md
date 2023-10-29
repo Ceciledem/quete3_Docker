@@ -13,7 +13,7 @@ Créer une app Node server et react client et les utiliser avec docker compose
 1. Clonez le dépôt :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-projet.git
+    git clone https://github.com/Ceciledem/quete3_Docker.git
     ```
 
 2. Accédez au répertoire du projet :
